@@ -1,0 +1,12 @@
+const numbers = [12, 34, 89, 4, 88, 99];
+const doubled = numbers.map(num=> num*2);
+console.log(doubled);
+const fiveBonous = numbers.map(n => n+5);
+console.log(fiveBonous);
+const halves = numbers.map(n=>n/2);
+console.log(halves);
+const friends = ['Tom', 'John', 'Oliver', 'Micheal'];
+const lengths = friends.map(f => f.length);
+console.log(lengths);
+const firstLetter = friends.map(f=>f[0]);
+console.log(firstLetter);
