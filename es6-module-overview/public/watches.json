@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Rolex Submariner", "price": 9500 },
+  { "id": 2, "name": "Omega Seamaster", "price": 5200 },
+  { "id": 3, "name": "Casio G-Shock GA2100", "price": 120 },
+  { "id": 4, "name": "Apple Watch Series 9", "price": 399 },
+  { "id": 5, "name": "Seiko 5 Sports", "price": 275 }
+]

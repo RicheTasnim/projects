@@ -21,7 +21,4 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-
-
-
-world tour domain: workable-cub.surge.sh
+*.sw?
